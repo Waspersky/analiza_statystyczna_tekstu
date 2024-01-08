@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614770019 source:/home/pi/Desktop/wczytywanie_tekstu/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1635362118 source:/home/pi/Desktop/CPP_Projects/wczytywanie_tekstu/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<dirent.h>
+	<stdio.h>
+
